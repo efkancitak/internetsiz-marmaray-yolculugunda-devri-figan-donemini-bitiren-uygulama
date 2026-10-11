@@ -1,0 +1,28 @@
+{
+  "curriculum": "İnternetsiz Marmaray Yolculuğunda Devri Figan Dönemini Bitiren Uygulama",
+  "selectionMethod": "High-frequency academic language was selected with OPAL as a relevance signal, then supplemented with original TOEFL-style subject vocabulary across 24 balanced topics.",
+  "levelNote": "B2, C1 and C2 labels are pedagogical guidance for this curriculum, not official Oxford CEFR labels.",
+  "sources": [
+    {
+      "name": "Oxford Phrasal Academic Lexicon (OPAL)",
+      "publisher": "Oxford University Press",
+      "url": "https://www.oxfordlearnersdictionaries.com/about/wordlists/opal",
+      "referenceLists": [
+        "https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/opal/OPAL_written%20single%20words.pdf",
+        "https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/opal/OPAL_spoken%20single%20words.pdf",
+        "https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/opal/OPAL_written%20phrases.pdf",
+        "https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/opal/OPAL_spoken%20phrases.pdf"
+      ],
+      "usedFor": "Word and phrase selection only; no dictionary definition, example, note, audio or icon was copied."
+    }
+  ],
+  "originalContent": [
+    "Turkish meanings and usage notes",
+    "Collocation selections and organization",
+    "Example and cloze sentences",
+    "Distractor sets",
+    "All sixty topic passages"
+  ],
+  "offline": true,
+  "updated": "2026-10-11"
+}

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Marmaray yolculuğunda internetsiz çalışan, 60 günlük ve 700+ içerikli etkileşimli TOEFL kelime çalışma uygulaması." />
+    <meta name="theme-color" content="#18243a" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Devri Figan" />
+    <meta name="format-detection" content="telephone=no" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="app-icon-192.png" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='18' fill='%23172033'/%3E%3Cpath d='M18 14h10v27h18v9H18z' fill='%23cbea67'/%3E%3C/svg%3E" />
+    <title>İnternetsiz Marmaray Yolculuğunda Devri Figan Dönemini Bitiren Uygulama</title>
+    <link rel="stylesheet" href="styles.css?v=20261011f" />
+  </head>
+  <body>
+    <noscript>Bu çalışma modülü JavaScript gerektirir.</noscript>
+    <div id="app"></div>
+    <script src="data.js?v=20261011f"></script>
+    <script src="data-expanded.js?v=20261011f"></script>
+    <script src="passages.js?v=20261011f"></script>
+    <script src="passages-expanded.js?v=20261011f"></script>
+    <script src="app.js?v=20261011f"></script>
+    <script>
+      if ("serviceWorker" in navigator && location.protocol !== "file:") {
+        window.addEventListener("load", () => {
+          navigator.serviceWorker.register("./sw.js").catch(() => {});
+        });
+      }
+    </script>
+  </body>
+</html>

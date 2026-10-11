@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Devri Figan uygulama simgesi</title>
+  <desc id="desc">Lacivert zeminde Marmaray yolunu simgeleyen raylar ve sarı şimşek.</desc>
+  <rect width="512" height="512" rx="112" fill="#18243a"/>
+  <circle cx="256" cy="256" r="176" fill="#f5f1e8"/>
+  <path d="M148 360 214 152h84l66 208h-59l-13-51h-72l-13 51h-59Zm87-106h42l-21-82-21 82Z" fill="#18243a"/>
+  <path d="m300 105-84 136h54l-40 166 99-188h-59l30-114Z" fill="#f4a623"/>
+  <path d="M118 390h276" stroke="#cbea67" stroke-width="26" stroke-linecap="round"/>
+</svg>

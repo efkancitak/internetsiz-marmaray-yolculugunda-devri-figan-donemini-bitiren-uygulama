@@ -1,0 +1,29 @@
+{
+  "id": "./",
+  "name": "İnternetsiz Marmaray Yolculuğunda Devri Figan Dönemini Bitiren Uygulama",
+  "short_name": "Devri Figan",
+  "description": "Marmaray yolculuğunda internetsiz çalışan 60 günlük TOEFL kelime çalışma uygulaması.",
+  "lang": "tr",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f1e8",
+  "theme_color": "#18243a",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
